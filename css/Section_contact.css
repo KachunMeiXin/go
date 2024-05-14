@@ -1,0 +1,149 @@
+*{box-sizing:border-box}
+body{
+    border: px solid red;
+    margin: 0px;
+}
+header{
+    width: 100%;
+    background-color: deepskyblue;
+    height: 120px;
+    font-size: 20px; 
+    border: 1px solid black;
+    
+}
+section{
+    width: 50%;
+    float:;
+    height: 250px; 
+    margin-left:auto;
+    margin-right:auto;
+    text-align:;
+    font-family:sans-serif;
+    margin-top: 150px;
+}
+footer{
+       border: px solid black;
+       width: 100%;
+       height: 11%;
+       margin-top: 300px;
+       padding-left: 10px;
+}
+
+       
+
+#A{
+    margin: 5px;
+    float: left;
+}
+#btnhome{
+         margin-left: 10px;
+         margin-top: 60px;
+         width: 80px;
+         height: ;
+         background: transparent;
+         border: none;
+         font-size: 15px;
+         font-weight: 700;
+         
+}
+#btnnews{
+         margin-left: 10px;
+         margin-top: 60px;
+         width: 80px;
+         height: ;
+         background: transparent;
+         border: none;
+         font-size: 15px;
+         font-weight: 700;
+         
+}
+#btnshop{
+         margin-left: 10px;
+         margin-top: 60px;
+         width: 80px;
+         height: ;
+         background: transparent;
+         border: none;
+         font-size: 15px;
+         font-weight: 700;
+}
+#btncontact{
+         margin-left: 10px;
+         margin-top: 60px;
+         width: 80px;
+         height: ;
+         background: transparent;
+         border: none;
+         font-size: 15px;
+         font-weight: 700;
+}
+h1{
+    font-size: 30px;
+    margin-top: 50px;
+    padding-left: 15px;
+}
+h2{
+    margin-top: px;
+    margin-right: 700px;
+}
+input[type=text], select, textarea {
+  width: 100%; 
+  padding: 12px; 
+  border: 1px solid #ccc;
+  border-radius: 4px; 
+  box-sizing: border-box;  
+  margin-top: 6px; 
+  margin-bottom: 16px; 
+  resize: vertical 
+}
+
+
+input[type=submit] {
+  background-color: cornflowerblue;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+
+.container {
+  border-radius: 5px;
+  background-color: 
+  padding: 20px;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+  float: left;
+  margin-top: px;
+  margin-left: 10px;
+}
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+  float: left;
+  margin-top: px;
+  margin-left: px;
+}
+.fa-instagram {
+  background: #125688;
+  color: white;
+  float: left;
+  margin-top: px;
+  margin-left: px;
+}
+
